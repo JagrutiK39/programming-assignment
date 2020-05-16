@@ -1,6 +1,6 @@
 # programming-assignment
 ## These functions written in partial fulfillment of Coursera Data Science: R Programming 
-## Week 3 Assignment; week beginning May 11, 2020; GitHub user: PamlaM
+## Week 3 Assignment; week beginning May 11, 2020; GitHub user: jagrutik39
 
 
 makeCacheMatrix <- function(x = matrix()) 
